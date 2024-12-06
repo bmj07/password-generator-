@@ -9,10 +9,14 @@ Funcionalidades Principais:
 	1.	Escolher o comprimento da senha (ex.: 8 a 20 caracteres).
 	
  2.	Escolher se deve incluir:
-	•	Letras maiúsculas.
-	•	Letras minúsculas.
-	•	Números.
-	•	Caracteres especiais.
+	
+ •	Letras maiúsculas.
+	
+ •	Letras minúsculas.
+	
+ •	Números.
+	
+ •	Caracteres especiais.
 	
  3.	Gerar a senha e exibi-la ao usuário.
 
