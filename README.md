@@ -17,6 +17,7 @@ Funcionalidades Principais:
  3.	Gerar a senha e exibi-la ao usuário.
 
 Ferramentas/Tecnologias:
-	•	Linguagem: Python
+	
+ •	Linguagem: Python
 	
  •	Bibliotecas: random ou secrets para gerar senhas seguras.
